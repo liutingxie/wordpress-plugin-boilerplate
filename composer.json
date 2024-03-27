@@ -56,5 +56,10 @@
       "email": "storm.liutingxie@yahoo.com",
       "homepage": "https://www.providewp.com"
     }
-  ]
+  ],
+  "config": {
+    "allow-plugins": {
+      "dealerdirect/phpcodesniffer-composer-installer": true
+    }
+  }​​​​​
 }
